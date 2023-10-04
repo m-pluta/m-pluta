@@ -1,7 +1,7 @@
-### Hi there! 👋
+# Hi there! 👋
 
 I'm Michal, a developer living in the UK currently studying Computer Science at the University of Durham.
-I'm in my 2nd year and looking for a summer internship.
+I'm in my 2nd year of study and looking for a summer 2024 internship.
 
 ## About me
 
