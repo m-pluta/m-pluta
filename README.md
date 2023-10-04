@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**michal2003pluk/michal2003pluk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Michal, a developer living in the UK currently studying Computer Science at the University of Durham.
+I'm in my 2nd year and looking for a summer internship.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love to learn new technologies and I'm always looking for new challenges. I love working as a team and really appreciate the value of good communication, even if that means getting roasted for horrible code. I can speak Polish and am currently learning Chinese. I love to boulder climb and play tennis in my free time.
+
+## 📫 How to reach me:
+
+- [LinkedIn](https://www.linkedin.com/in/m-pluta/)
+- [Email](mailto:michalpl2003@gmail.com)
