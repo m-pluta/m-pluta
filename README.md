@@ -10,4 +10,4 @@ I love to learn new technologies and I'm always looking for new challenges. I lo
 ## 📫 How to reach me:
 
 - [LinkedIn](https://www.linkedin.com/in/m-pluta/)
-- [Email](mailto:michalpl2003@gmail.com)
+- [Email - michalpl2003@gmail.com](mailto:michalpl2003@gmail.com)
