@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 I'm Michal, a Polish software engineer living in the UK, currently studying Computer Science at [Durham University](https://durham.ac.uk/).
-I just finished my 2nd year of my integrated masters (MEng) and was fortunate enough to be selected for Arm's summer internship programme in 2024.
+I just finished my 2nd year of my Integrated Masters (MEng), and was fortunate to be selected for Arm's internship programme in summer 2024.
 
 ## Research Interests
 
