@@ -35,9 +35,11 @@ I love to learn new technologies and I'm always looking for new challenges. I lo
 
 ## 📫 How to reach me
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayrajroshan/)](https://www.linkedin.com/in/m-pluta/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/m-pluta/)
 &nbsp;
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/roshanjayraj/)](https://www.instagram.com/miikey_lol/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/miikey_lol/)
 &nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](mailto:michalpl2003@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:michalpl2003@gmail.com)
+&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-Leetcode-fda015?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/miikey_lol/)
 
