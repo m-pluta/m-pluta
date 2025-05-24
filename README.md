@@ -1,11 +1,11 @@
 # Hi there! 👋
 
 I'm Michal, a Polish software engineer living in the UK, currently studying Computer Science at [Durham University](https://durham.ac.uk/).
-I just started my 3rd year of my Integrated Masters (MEng), and was extremely fortunate to be selected for [Quadrature](https://quadrature.ai/)'s Core Technology internship programme for summer 2025, following my successful internship at [Arm](https://www.arm.com/) last summer.
+I just finished my 3rd year of my Integrated Masters (MEng), and was extremely fortunate to be selected for [Quadrature](https://quadrature.ai/)'s Core Technology internship programme this summer, following my successful internship at [Arm](https://www.arm.com/) last summer.
 
 ## Research Interests
 
-I really love pushing software to its limits and making programs run as fast as possible which I believe is the pinnacle of computer engineering. As such my interests lie in
+I really love pushing software to its limits and making programs run as fast as possible which I believe is the pinnacle of computer engineering. I also like to spend time studying the intricacies of the system-hardware interface As such my interests lie in
 - High Performance/Throughput Computing and compiler optimisations.
 - Infrastructure Design and System administration.
 - Performance engineering
@@ -14,9 +14,9 @@ I really love pushing software to its limits and making programs run as fast as 
 
 ## About me
 
-I love to learn new technologies and I'm always looking for new challenges. I love working as a team and really appreciate the value of good communication, even if that means getting roasted for horrible code. I am currently learning Mandarin Chinese and love to boulder climb and play tennis whenever I have a spare moment. 
+I love to learn new technologies and I'm always looking for new challenges. I love working as a team and really appreciate the value of good communication, even if that means getting roasted for horrible code. I'm currently learning Mandarin Chinese and love to boulder climb and play tennis whenever I have a spare moment. 
 
-In my free time, I love watching (or even attending) (HPC) conferences and engaging in super deep discussions with my friends about random Lobste.rs articles or playing social deduction board games!
+In my free time, I love watching and attending (HPC) conferences and engaging in deep discussions with my friends about random articles or playing social deduction board games!
 
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
@@ -45,5 +45,5 @@ In my free time, I love watching (or even attending) (HPC) conferences and engag
 &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:michalpl2003@gmail.com)
 &nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-Leetcode-fda015?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/miikey_lol/)
+[![Leetcode Badge](https://img.shields.io/badge/-Leetcode-fda015?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/miikey_lol/)
 
